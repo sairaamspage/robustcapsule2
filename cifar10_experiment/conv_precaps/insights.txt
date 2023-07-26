@@ -1,0 +1,1 @@
+Try a deepcaps type of initial layers, followed by sovnet capsules.
